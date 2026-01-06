@@ -1,2 +1,1 @@
-Semester Two: June - December 2025
-
+Semester 3: January-June 2025

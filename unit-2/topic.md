@@ -1,1 +1,2 @@
-Semester One - January - June 2025
+Semester Two: June - December 2025
+

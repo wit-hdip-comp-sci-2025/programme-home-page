@@ -4,6 +4,6 @@ icon:
   color: CornflowerBlue
 ---
 
-Semester 2 Schedule
+Semester 3 Schedule
 
 timetables · semester calendars · assessment schedules
