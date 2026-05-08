@@ -3,6 +3,7 @@ icon:
   type: ri:calendar-event-fill 
   color: CornflowerBlue
 ---
-Semester 1 Schedule
+
+Semester 2 Schedule
 
 timetables · semester calendars · assessment schedules

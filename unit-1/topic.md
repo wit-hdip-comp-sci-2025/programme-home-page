@@ -1,1 +1,1 @@
-Semester 3: January-June 2026
+Semester 4: June-December 2026
