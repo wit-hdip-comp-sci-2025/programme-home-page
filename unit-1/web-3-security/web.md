@@ -2,6 +2,6 @@
 icon:
   type: flat-color-icons:data-encryption
 ---
-Software Security
+Security
 
 security · crypto · threats · vulnerabilities
